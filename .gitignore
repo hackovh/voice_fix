@@ -1,0 +1,20 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/Release/voice_fix.tlog
+/.vs/voice_fix/v16
+/Release/XenosCurrentProfile.xpr
+/Release/Xenos64.exe
+/Release/Xenos.log
+/Release/voice_fix.vcxproj.FileListAbsolute.txt
+/Release/voice_fix.pdb
+/Release/voice_fix.pch
+/Release/voice_fix.log
+/Release/voice_fix.ipdb
+/Release/voice_fix.iobj
+/Release/voice_fix.Build.CppClean.log
+/Release/vcpkg.applocal.log
+/Release/vc142.pdb
+/Release/pch.obj
+/Release/dllmain.obj
